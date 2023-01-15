@@ -221,20 +221,6 @@ section {
 
 /* sponsor section */
 
-.sponsor-text {
-    text-align: center;
-}
-.sponsor-text p {
-    width: 50%;
-    margin: 2% auto;
-}
-.sponsor-logo {
-    display: grid;
-    grid-template-columns: repeat(5,1fr);
-    margin: 4% 0;
-    text-align: center;
-    gap: 6%;
-}
 
 /* footer section */
 
